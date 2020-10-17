@@ -1,2 +1,2 @@
 # Programming-Course-Ex-1
-Programming course Exercise 1 - Alexandra Alexiu
+Programming course Exercise 1 - Alexandra Alexiu (aa2091)
